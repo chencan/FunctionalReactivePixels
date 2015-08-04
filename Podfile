@@ -12,11 +12,3 @@ pod 'AFImageDownloader', '1.0.0'
 pod 'libextobjc', '0.4'
 
 end
-
-target "FRPTests" do
-
-pod 'Specta', '~> 0.2.1'
-pod 'Expecta', '~> 0.2'
-pod 'OCMock', '~> 2.2.2'
-
-end
